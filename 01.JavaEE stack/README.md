@@ -29,3 +29,14 @@
 Ниже представлен скрипт, который создает две таблицы. 
 ![image](https://github.com/stillysyw/ESA-2023-/assets/154344530/3be76de3-e1a7-462f-8e04-730db89b16e0)
 
+
+
+
+
+![Alt text](Screenshot_3.png)
+
+
+![Alt text](Screenshot_1.png)
+
+
+![Alt text](Screenshot_2.png)
